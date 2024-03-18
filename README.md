@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1546146830-2cca9512c68e?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https:/ImmanuelJNR.io)
+
 <h1 align="center">Hi 👋, I'm Elijah Emmanuel</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
